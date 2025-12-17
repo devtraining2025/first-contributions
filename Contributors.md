@@ -1,2 +1,3 @@
 - [Git-standards](https://github.com/gitstandards)
-- Kiran 
+- Kiran
+- Haritha 
